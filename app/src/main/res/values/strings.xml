@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">FitCheck</string>
+    <string-array name="meals_array">
+        <item>Kahvaltı</item>
+        <item>Öğle Yemeği</item>
+        <item>Akşam Yemeği</item>
+    </string-array>
+    <string name="total_calories">Toplam Kalori: %d</string>
+</resources>

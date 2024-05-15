@@ -1,0 +1,17 @@
+<!-- button_background.xml -->
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- Durum: Düğme basılırken -->
+    <item android:state_pressed="true">
+        <shape android:shape="rectangle">
+            <solid android:color="#2196F3" /> <!-- Basıldığında düğme rengi -->
+            <corners android:radius="8dp" /> <!-- Yuvarlatılmış köşeler -->
+        </shape>
+    </item>
+    <!-- Durum: Düğme normal -->
+    <item>
+        <shape android:shape="rectangle">
+            <solid android:color="@color/lavender" /> <!-- Normal düğme rengi -->
+            <corners android:radius="8dp" /> <!-- Yuvarlatılmış köşeler -->
+        </shape>
+    </item>
+</selector>

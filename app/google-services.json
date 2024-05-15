@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "228142035274",
+    "project_id": "fitcheck-d9111",
+    "storage_bucket": "fitcheck-d9111.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:228142035274:android:840185d6ba77d03328d1b3",
+        "android_client_info": {
+          "package_name": "com.example.fitcheck"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBevYO20KuADR7ct84B3boZddwaPBWjyUU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
